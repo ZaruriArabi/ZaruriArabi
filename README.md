@@ -3,7 +3,7 @@ za3D
 
 HTML5 and JavaScript WebApp for Learning Arabic with 3D Graphics
 
-Live Demo Here: https://raavimunaf.github.io/za3D/
+Live Demo Here: https://zaruriarabi.github.io/
 
 HTML5,JS
 
